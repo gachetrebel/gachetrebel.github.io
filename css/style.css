@@ -145,7 +145,7 @@ h4 {
 }
 
 a {
-  color: #FF4C60;
+  color: #10f136;
   outline: 0;
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -213,7 +213,7 @@ pre {
   width: 16px;
   height: 16px;
   display: block;
-  background: #FF4C60;
+  background: #956af1;
   -webkit-box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
           box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
   border-radius: 50%;
@@ -270,7 +270,7 @@ pre {
   position: absolute;
   width: 16px;
   height: 16px;
-  background: #FF4C60;
+  background: #956af1;
   -webkit-box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
           box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
   border-radius: 50%;
@@ -570,17 +570,17 @@ header.desktop-header-1.light {
   background: #e0e5ec;
 }
 header.desktop-header-1.light .vertical-menu li .nav-link.active {
-  color: #FF4C60;
+  color: #956af1;
   text-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
 }
 header.desktop-header-1.light .vertical-menu li a {
   color: #353353;
 }
 header.desktop-header-1.light .vertical-menu li a:hover {
-  color: #FF4C60;
+  color: #956af1;
 }
 header.desktop-header-1.light .vertical-menu li i {
-  color: #FF4C60;
+  color: #956af1;
 }
 
 header.desktop-header-2 {
@@ -1119,7 +1119,7 @@ section.home.light .social-icons li a:hover {
 }
 .portfolio-item .details span.term {
   color: #FFF;
-  background: #FF4C60;
+  background: #956af1;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   font-size: 14px;
@@ -1195,10 +1195,10 @@ section.home.light .social-icons li a:hover {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-filter li:hover {
-  color: #FF4C60;
+  color: #956af1;
 }
 .portfolio-filter li.current {
-  color: #FF4C60;
+  color: #956af1;
   text-shadow: 3px 3px 6px #0002, -3px -3px 6px #fff;
 }
 .portfolio-filter li:not(:last-child) {
@@ -1368,7 +1368,7 @@ select.portfolio-filter-mobile {
   transform: scale(1.1);
 }
 .blog-item .category {
-  background: #FF4C60;
+  background: #956af1;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   color: #FFF;
@@ -1391,7 +1391,7 @@ select.portfolio-filter-mobile {
   text-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
 }
 .blog-item .details h4.title a:hover {
-  color: #FF4C60;
+  color: #956af1;
 }
 .blog-item .meta {
   font-size: 14px;
@@ -1430,7 +1430,7 @@ select.portfolio-filter-mobile {
   color: #454360;
 }
 .blog-page-section .blog-text-title h4 a:hover {
-  color: #FF4C60;
+  color: #956af1;
 }
 .blog-page-section .blog-pagination {
   margin: 60px 0px 40px;
@@ -1452,7 +1452,7 @@ select.portfolio-filter-mobile {
   border-radius: 100%;
 }
 .blog-page-section .blog-pagination ul li a:hover {
-  background-color: #FF4C60;
+  background-color: #956af1;
 }
 .blog-page-section .blog-standard {
   margin-bottom: 30px;
@@ -1481,7 +1481,7 @@ select.portfolio-filter-mobile {
   color: #353353;
 }
 .blog-page-section .blog-standard .meta li a:hover {
-  color: #ff4c60;
+  color: #956af1;
 }
 .blog-page-section .br-more a {
   border-radius: 60px;
@@ -1492,7 +1492,7 @@ select.portfolio-filter-mobile {
   line-height: 1;
   padding: 12px 32px;
   color: #fff;
-  background: #ff4c60;
+  background: #956af1;
   display: inline-block;
   vertical-align: middle;
   position: relative;
@@ -1538,7 +1538,7 @@ select.portfolio-filter-mobile {
 }
 .blog-page-section .widget .searchform input[type=submit] {
   color: #fff;
-  background: #ff4c60;
+  background: #956af1;
   border-radius: 25px;
   padding: 5px 20px;
   border: 0;
@@ -1607,7 +1607,7 @@ select.portfolio-filter-mobile {
   line-height: 1;
   padding: 12px 32px;
   color: #fff;
-  background: #ff4c60;
+  background: #956af1;
   display: inline-block;
   vertical-align: middle;
   position: relative;
@@ -1672,7 +1672,7 @@ select.portfolio-filter-mobile {
   border-radius: 20px;
   padding: 0px 10px;
   display: inline-block;
-  background-color: #ff4c60;
+  background-color: #956af1;
 }
 
 /*=================================================================*/
@@ -1754,7 +1754,7 @@ select.portfolio-filter-mobile {
 
 .scroll-down {
   position: absolute;
-  bottom: 40px;
+  bottom: 50px;
   left: 0;
   width: 100%;
   z-index: 1;
@@ -1885,13 +1885,13 @@ body.dark a:hover {
   color: #FFF;
 }
 body.dark .portfolio-filter li.current {
-  color: #FF4C60;
+  color: #956af1;
 }
 body.dark .blog-item .details h4.title a {
   color: #FFF;
 }
 body.dark .blog-item .details h4.title a:hover {
-  color: #FF4C60;
+  color: #956af1;
 }
 body.dark .contact-info {
   background-image: url("../images/map-light.png");
@@ -1973,7 +1973,7 @@ body.dark .blog-page-section .blog-single {
 }
 .btn-default {
   color: #FFF;
-  background: #FF4C60;
+  background: #956af1;
   display: inline-block;
   vertical-align: middle;
   position: relative;
@@ -2219,7 +2219,7 @@ body.dark .blog-page-section .blog-single {
   background: #e0e5ec;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #956af1;
   position: absolute;
   left: -7px;
   top: 0;
@@ -2231,7 +2231,7 @@ body.dark .blog-page-section .blog-single {
   background: #e0e5ec;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #956af1;
   position: absolute;
   left: -7px;
   top: 0;
@@ -2260,7 +2260,7 @@ body.dark .blog-page-section .blog-single {
 .timeline span.line {
   position: absolute;
   width: 1px;
-  background-color: #FF4C60;
+  background-color: #956af1;
   top: 30px;
   bottom: 30px;
   left: 34px;
@@ -2331,7 +2331,7 @@ body.dark .blog-page-section .blog-single {
 }
 
 #return-to-top:hover {
-  background: #FF4C60;
+  background: #956af1;
 }
 
 /* === Helper === */
@@ -2662,7 +2662,7 @@ body.dark .blog-page-section .blog-single {
 }
 
 .slick-dots li.slick-active button:before {
-  background: #FF4C60;
+  background: #956af1;
   border-radius: 3px;
   opacity: 1;
   height: 6px;
